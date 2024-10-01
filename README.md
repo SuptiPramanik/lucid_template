@@ -1,1 +1,1 @@
-# lucid_template
+# lucid-responsive
